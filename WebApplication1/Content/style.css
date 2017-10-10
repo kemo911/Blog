@@ -1,0 +1,78 @@
+﻿.title {
+    color: white;
+    padding-top: 40%;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-size: 400%;
+}
+.cover {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url('images/Programming-World-Map-Wallpaper.jpg');
+    width: 100%;
+    height: 650px;
+}
+small {
+    color: white;
+}
+.navbar-default {
+    background: transparent;
+    border: none;  
+}
+.navbar-default .navbar-brand {
+    color: white;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+        color: black;
+        background-color: white;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: white;
+    border: white groove 1px;
+}
+.who {
+    font-family: 'Pacifico', cursive;
+    font-size: 500%;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.bio {
+    font-family: 'Pacifico', cursive;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 150%;
+
+}
+.mybio {
+    height: 600px;     
+}
+.secBio {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url('images/programming-wallpaper-images-6.png');
+    background-size :contain;
+    width: 100%;
+    height: 800px;
+    color: white;
+}
+.skills {
+    font-family: 'Pacifico', cursive;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Courgette', cursive;
+    font-size: 400%;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.exp {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url('images/minimal-digital-rain.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    color: white;
+}
+.footer {
+    height: 50px;
+    background-color: brown;
+}
